@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azhar Munir</h1>
 <h3 align="center">Professional python developer , Data analyst , Data engineer</h3>
 
-<img align="right" alt="coding" width="400" src=" https://github.com/Azhar512/Azhar512/assets/142801331/ba944b54-f6bf-4448-8186-17c4fe2ef584">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar512&label=Profile%20views&color=0e75b6&style=flat" alt="azhar512" /> </p>
 
