@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python Libraries, big data, data analysis**
 
-- 📫 How to reach me **azharsiddiqui8540,gmail.com**
+- 📫 How to reach me **azharsiddiqui8540@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XZx2ptRXucvfkQywmkcIlbsW04xwQgD-/edit?usp=drive_link&ouid=106505668303147317296&rtpof=true&sd=true](https://docs.google.com/document/d/1XZx2ptRXucvfkQywmkcIlbsW04xwQgD-/edit?usp=drive_link&ouid=106505668303147317296&rtpof=true&sd=true)
 
